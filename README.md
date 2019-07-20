@@ -1,3 +1,3 @@
 # qwerty
 hello git
-[google](hhtps)
+[google](https://www.google.com)
